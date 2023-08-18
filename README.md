@@ -21,8 +21,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/johnpastorall"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="johnpastorall" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xinxin032822&show_icons=true&locale=en&layout=compact" alt="xinxin032822" /></p>
+<div display="flex">
+  <p align="center"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=xinxin032822&" alt="xinxin032822" /></p>
+  <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xinxin032822&show_icons=true&locale=en&layout=compact" alt="xinxin032822" /></p>
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xinxin032822&show_icons=true&locale=en" alt="xinxin032822" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xinxin032822&show_icons=true&locale=en" alt="xinxin032822" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xinxin032822&" alt="xinxin032822" /></p>
+</div>
